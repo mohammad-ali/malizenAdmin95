@@ -1,0 +1,8 @@
+D:\project\malizen 95\admin\admin\bin\admin.dll
+D:\project\malizen 95\admin\admin\bin\admin.pdb
+D:\project\malizen 95\admin\admin\bin\admin.xml
+D:\project\malizen 95\admin\admin\obj\Debug\admin.Resources.resources
+D:\project\malizen 95\admin\admin\obj\Debug\admin.vbproj.GenerateResource.Cache
+D:\project\malizen 95\admin\admin\obj\Debug\admin.dll
+D:\project\malizen 95\admin\admin\obj\Debug\admin.xml
+D:\project\malizen 95\admin\admin\obj\Debug\admin.pdb
